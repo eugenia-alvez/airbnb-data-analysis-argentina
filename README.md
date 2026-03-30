@@ -26,3 +26,5 @@ Análisis de Cuadrantes: Clasificación de barrios por Precio vs. Popularidad pa
 El dashboard se estructuró en dos pilares:
 Análisis Geográfico: Concentración de oferta y volumen total de mercado.
 Matriz de Rentabilidad: Mapa de calor cruzando huéspedes vs. dormitorios para identificar el "punto dulce" de inversión.
+
+Video Demostrativo: https://drive.google.com/file/d/12kHrEWvpsk8PHmsEOd6j8n3F6FoCgjsD/view?usp=drive_link
